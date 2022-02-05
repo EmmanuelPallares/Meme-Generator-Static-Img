@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Fragment } from "react";
+
 import html2canvas from "html2canvas";
 
 import { MDBBtn, MDBContainer } from "mdb-react-ui-kit";
